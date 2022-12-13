@@ -42,7 +42,7 @@ https://visualstudio.microsoft.com/downloads/
 
 First, you need to clone the repository in your machine with git previously installed. Type in a console to clone
 ```
-git clone 
+git clone https://github.com/jesusgetial94/StudentCrud.git
 ```
 
 - Open a console in the StudentWeb folder path and type:
